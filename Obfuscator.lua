@@ -1,5 +1,5 @@
 local af = [[
-  print("Replace this line with the script you want to obfuscate.")
+  print("Script Here")
 ]]
 
 af="--// Decompiled Code. \n"..af;
