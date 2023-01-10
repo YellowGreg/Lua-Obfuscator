@@ -1,4 +1,4 @@
-local a=[[
+local a = [[
   print("Put Script Here")
 ]]
 
