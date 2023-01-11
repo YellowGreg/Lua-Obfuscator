@@ -1,5 +1,5 @@
 local AF = [[
-  print("Put Script Here")
+  print("Delete The Print and put your script here")
 ]]
 
 function wait(seconds)local start = os.time()repeat until os.time() > start + seconds end dofile("Start.lua")print("AF Lua Obfuscator  //  Version 1.0\n")wait(0.5)print("Before you enter your script, please select the settings\n")wait(0.1)print("Do you want your obfuscated script(Y/N)\n")
